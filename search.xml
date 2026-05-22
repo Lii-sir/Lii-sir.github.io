@@ -5,19 +5,19 @@
     <url>/2026/05/22/desc2cite/</url>
     <content><![CDATA[<p>Desc2Cite is one of my GitHub projects:</p>
 <p>Repo: <a href="https://github.com/Lii-sir/Desc2Cite">https://github.com/Lii-sir/Desc2Cite</a></p>
-<h2 id="README-绠€浠?><a href="#README-绠€浠? class="headerlink" title="README 绠€浠?></a>README 绠€浠?/h2><blockquote>
-<p>涓€涓寜宸ョ▼鍒嗗眰缁勭粐鐨勨€滆嚜鐒惰瑷€鎻忚堪 -&gt; 瀛︽湳璁烘枃寮曠敤鈥濋」鐩€?/p>
+<h2 id="README-简介"><a href="#README-简介" class="headerlink" title="README 简介"></a>README 简介</h2><blockquote>
+<p>一个按工程分层组织的“自然语言描述 -&gt; 学术论文引用”项目。</p>
 </blockquote>
-<p>杩欎釜椤圭洰鎶婅嚜鐒惰瑷€鎻忚堪杞崲涓哄彲鐢ㄧ殑瀛︽湳寮曠敤缁撴灉锛孯EADME 閲屽綋鍓嶈鏄庝簡瀹屾暣閾捐矾锛?/p>
+<p>这个项目把自然语言描述转换为可用的学术引用结果，README 里当前说明了完整链路：</p>
 <ul>
-<li>鏌ヨ浼樺寲锛堝叧閿瘝銆佺煭璇€佸勾浠芥彁绀猴級</li>
-<li>AI 鏀瑰啓锛圤penAI 鍏煎鎺ュ彛 &#x2F; MiniMax锛?/li>
-<li>瀛︽湳妫€绱紙鏈湴 JSON銆乤rXiv銆丆rossref銆丱penAlex銆丼emantic Scholar锛?/li>
-<li>缁撴灉閲嶆帓搴忥紙鏍囬鍛戒腑銆佸勾浠姐€丏OI銆佸厓鏁版嵁瀹屾暣鎬э級</li>
-<li>BibTeX 鐢熸垚涓庡紩鐢ㄦ牸寮忚緭鍑猴紙<code>apa</code> &#x2F; <code>mla</code> &#x2F; <code>plain</code>锛?/li>
-<li>Web 鐣岄潰灞曠ず锛堝€欓€夌粨鏋溿€佸紩鐢ㄦ枃鏈€丅ibTeX锛?/li>
+<li>查询优化（关键词、短语、年份提示）</li>
+<li>AI 改写（OpenAI 兼容接口 &#x2F; MiniMax）</li>
+<li>学术检索（本地 JSON、arXiv、Crossref、OpenAlex、Semantic Scholar）</li>
+<li>结果重排序（标题命中、年份、DOI、元数据完整性）</li>
+<li>BibTeX 生成与引用格式输出（<code>apa</code> &#x2F; <code>mla</code> &#x2F; <code>plain</code>）</li>
+<li>Web 界面展示（候选结果、引用文本、BibTeX）</li>
 </ul>
-<h2 id="README-鍘熸枃"><a href="#README-鍘熸枃" class="headerlink" title="README 鍘熸枃"></a>README 鍘熸枃</h2><p><a href="https://github.com/Lii-sir/Desc2Cite/blob/master/README.md">https://github.com/Lii-sir/Desc2Cite/blob/master/README.md</a></p>
+<h2 id="README-原文"><a href="#README-原文" class="headerlink" title="README 原文"></a>README 原文</h2><p><a href="https://github.com/Lii-sir/Desc2Cite/blob/master/README.md">https://github.com/Lii-sir/Desc2Cite/blob/master/README.md</a></p>
 ]]></content>
       <categories>
         <category>Projects</category>
@@ -33,18 +33,18 @@
     <url>/2026/05/22/eye-guide/</url>
     <content><![CDATA[<p>Eye-Guide is one of my GitHub projects:</p>
 <p>Repo: <a href="https://github.com/Lii-sir/Eye-Guide">https://github.com/Lii-sir/Eye-Guide</a></p>
-<h2 id="README-绠€浠?><a href="#README-绠€浠? class="headerlink" title="README 绠€浠?></a>README 绠€浠?/h2><blockquote>
-<p>闈㈠悜鐩蹭汉鍑鸿杈呭姪鐨勬闈㈣瑙夊鑸師鍨嬨€?br>灏?YOLO銆丏epth Anything V2銆佺洸閬撳垎鍓层€丟PS 鍜?TTS 涓叉垚鍙繍琛岀殑瀹炴椂鎰熺煡閾捐矾銆?/p>
+<h2 id="README-简介"><a href="#README-简介" class="headerlink" title="README 简介"></a>README 简介</h2><blockquote>
+<p>面向盲人出行辅助的桌面视觉导航原型。<br>将 YOLO、Depth Anything V2、盲道分割、GPS 和 TTS 串成可运行的实时感知链路。</p>
 </blockquote>
-<p>杩欎釜椤圭洰涓嶆槸鍗曠函鐩爣妫€娴?Demo锛岃€屾槸鍥寸粫鈥滄劅鐭?-&gt; 鍐崇瓥 -&gt; 鎾姤 -&gt; 瀵艰埅鈥濈殑瀹屾暣娴佺▼鏉ュ仛銆俁EADME 褰撳墠寮鸿皟鐨勬牳蹇冪偣鍖呮嫭锛?/p>
+<p>这个项目不是单纯目标检测 Demo，而是围绕“感知 -&gt; 决策 -&gt; 播报 -&gt; 导航”的完整流程来做。README 当前强调的核心点包括：</p>
 <ul>
-<li>澶氭ā鍨嬪疄鏃跺崗鍚岋紙YOLO + 娣卞害浼拌 + 鐩查亾鍒嗗壊锛?/li>
-<li>椋庨櫓绛涢€夋挱鎶ワ紙鎸夎窛绂汇€佹柟鍚戙€佺洸閬撶姸鎬佹彁閱掞級</li>
-<li>闀挎湡鍘婚噸鎾姤锛堝噺灏戦噸澶嶈闊筹級</li>
-<li>鑷敱鎺㈢储 &#x2F; 璺嚎瀵艰埅 &#x2F; 瑙嗛妯℃嫙涓夌妯″紡</li>
-<li>鏀寔 GPS 鎺ュ叆涓庤缁冨伐鍏烽摼</li>
+<li>多模型实时协同（YOLO + 深度估计 + 盲道分割）</li>
+<li>风险筛选播报（按距离、方向、盲道状态提醒）</li>
+<li>长期去重播报（减少重复语音）</li>
+<li>自由探索 &#x2F; 路线导航 &#x2F; 视频模拟三种模式</li>
+<li>支持 GPS 接入与训练工具链</li>
 </ul>
-<h2 id="README-鍘熸枃"><a href="#README-鍘熸枃" class="headerlink" title="README 鍘熸枃"></a>README 鍘熸枃</h2><p><a href="https://github.com/Lii-sir/Eye-Guide/blob/master/README.md">https://github.com/Lii-sir/Eye-Guide/blob/master/README.md</a></p>
+<h2 id="README-原文"><a href="#README-原文" class="headerlink" title="README 原文"></a>README 原文</h2><p><a href="https://github.com/Lii-sir/Eye-Guide/blob/master/README.md">https://github.com/Lii-sir/Eye-Guide/blob/master/README.md</a></p>
 ]]></content>
       <categories>
         <category>Projects</category>
